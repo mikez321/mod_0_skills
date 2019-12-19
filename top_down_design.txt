@@ -17,13 +17,15 @@ HOW TO BECOME A TURING STUDENT
       2.1.2.1 Reschedule stuff if necessary
   2.2 Sign up
     2.2.1 Install Eventbrite app if you don't have it
-    2.2.2 Follow Eventbrite instructions
-      2.2.2.1 Use secure payment to pay for the event
+    2.2.2 Register for event with Eventbrite
+      2.2.2.1 Create an account
+      2.2.2.2 Select "Try Coding" event
+      2.2.2.3 Use secure payment to pay for the event
   2.3 Get a plan for transportation
     2.3.1 Find out Turing's address
       2.3.1.1 Google "Turing Denver"
       2.3.1.2 Use Google maps to see where it is
-    2.3.2 Plan a route
+    2.3.2 Plan a route using light rail
       2.3.2.1 Look for light rail lines
       2.3.2.2 Look up light rail times
       2.3.2.3 Look up light rail pricing
