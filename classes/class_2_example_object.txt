@@ -1,0 +1,15 @@
+Class: Chair
+
+Instance: Mike's Place Official Chair
+
+num_legs = 5
+height = 24
+has_back = true
+location = "storage"
+
+methods:
+
+remove_leg: 5 - 1 = 4
+raise: 24 + 2 = 26
+make_stool: has_back = false
+move_to_bar: location = "bar"
