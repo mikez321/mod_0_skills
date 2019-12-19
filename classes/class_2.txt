@@ -1,0 +1,15 @@
+Class: Chair
+
+Attributes:
+
+num_legs (integer)
+height (integer)
+has_back (boolean)
+location (string)
+
+methods:
+
+remove_leg: (removes 1 from num_legs)
+raise: (adds 2 to height)
+make_stool: (change has_back to false)
+move_to_bar: (changes location to "bar")
