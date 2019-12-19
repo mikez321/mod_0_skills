@@ -11,7 +11,7 @@ is_laminated (boolean)
 
 Methods:
 
-display_size (prints dimensions of menu in length x width)
+display_size (prints dimensions of menu in length x width (would need to convert to a string for this .to_s))
 increase_font (increases font size by 1 point)
 add_logo (adds a logo to the end of the logos array)
 display_chef_choice (returns the name of the Chef's choice dish of the day)
