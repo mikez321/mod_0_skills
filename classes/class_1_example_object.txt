@@ -1,0 +1,17 @@
+Class: menu
+
+Instance: Friday menu
+
+length = 11
+width = 8
+font_size = 14
+logos = [ "Mike's Place", "Glad Wrap", "Oskar Blues"]
+chef_choice_dish = "Lobster stuffed with Tacos"
+is_laminated = false
+
+Methods:
+
+display_size: "8 x 11"
+increase_font: font_size = 14 + 1 = 15
+add_logo: logos = [ "Mike's Place", "Glad Wrap", "Oskar Blues", "Jose Ole"]
+make_permanent: is_laminated = true
