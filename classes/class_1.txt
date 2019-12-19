@@ -1,0 +1,18 @@
+Class: Menu
+
+Attributes:
+
+length (integer)
+width (integer)
+font_size (integer)
+logos (array)
+chef_choice_dish (string)
+is_laminated (boolean)
+
+Methods:
+
+display_size (prints dimensions of menu in length x width)
+increase_font (increases font size by 1 point)
+add_logo (adds a logo to the end of the logos array)
+display_chef_choice (returns the name of the Chef's choice dish of the day)
+make_permanent (changes is_laminated to true)
