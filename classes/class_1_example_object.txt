@@ -14,4 +14,5 @@ Methods:
 display_size: "8 x 11"
 increase_font: font_size = 14 + 1 = 15
 add_logo: logos = [ "Mike's Place", "Glad Wrap", "Oskar Blues", "Jose Ole"]
+display_chef_choice = "Lobster stuffed with Tacos"
 make_permanent: is_laminated = true
